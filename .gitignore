@@ -1,0 +1,29 @@
+# Dependency directories (jika nanti pakai npm)
+node_modules/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build output (jika nanti pakai build tools seperti Vite/Webpack)
+dist/
+build/
+
+# Local env files
+.env
+.env.local
